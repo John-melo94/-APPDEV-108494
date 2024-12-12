@@ -30,7 +30,7 @@ print("Hello, Python!")
 
 ### 1.2 Robust Standard Library
 
-Python comes with a vast standard library, often referred to as its "batteries-included" feature. Whatever the task, there's likely a module in the standard library to help you get started. For instance, handling HTTP for server-side code:
+Python comes with a _vast standard library_, often referred to as its "batteries-included" feature. Whatever the task, there's likely a module in the standard library to help you get started. For instance, handling ```http``` for server-side code:
 
 ```python
 from http.server import BaseHTTPRequestHandler, HTTPServer
