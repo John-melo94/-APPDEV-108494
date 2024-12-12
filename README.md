@@ -6,6 +6,6 @@ This repository corresponds to task A4 of the optional module **Basic concepts o
 
 ## Photo
 
-![USGC satellite image](image/image.jpg)
+![USGC satellite image](image/Image.jpg)
 
 _Photo by [USGS](https://unsplash.com/es/@usgs) on [Unsplash](https://unsplash.com/es/fotos/pintura-abstracta-verde-y-multicolor-vbLuKHsYIE4)._
