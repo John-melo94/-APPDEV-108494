@@ -4,4 +4,4 @@
 
 This repository corresponds to task A4 of the optional module **Basic concepts of application development**.
 
-Lorem ipsum dolor sit amet
+
